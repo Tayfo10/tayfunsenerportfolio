@@ -145,7 +145,7 @@ export default function Home() {
                 className="mx-auto"
               />
               <h3 className="text-lg font-medium text-teal-600 pt-8 pb-2">
-                Expert Consulting
+                 Consulting
               </h3>
               <p className="py-2">
               Tailored to your specific coding needs
